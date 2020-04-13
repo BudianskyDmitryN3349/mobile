@@ -1,4 +1,4 @@
 # mobile_labs
  Лабораторные работы по дисциплине "Управление мобильными устройствами"
 
- Контакты: dimabudiansky.com
+ Контакты: dimabudiansky@gmail.com

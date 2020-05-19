@@ -2,6 +2,7 @@
 Используемый язык программирования: Python 3.8
 
 Используемые библиотеки: csv, fpdf, os.
+Обработка исходного файла (из ЛР 2): `nfdump -r nfcapd.202002251200 -o csv > datai.csv`
 
 Запуск программы: `python mobile_lab3_Budiansky.py`
 
